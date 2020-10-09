@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Typography
+title: Typografi
 slug: /typografi
 date: 2020-10-09 07:44
-description: typografi til The Media Labs nettsiden
+description: Typografi til The Media Labs nettsiden
 featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 ---
 \# When will that be?\
