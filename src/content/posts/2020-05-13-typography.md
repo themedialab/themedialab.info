@@ -1,10 +1,10 @@
 ---
-title: Typography
 template: blog-post
-date: 2020-05-13 09:19
-slug: /typography
+title: Typography
+slug: /typografi
+date: 2020-10-09 07:44
+description: typografi til The Media Labs nettsiden
 featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
-description: metaphorically make a deal with the devil
 ---
 \# When will that be?\
 \
