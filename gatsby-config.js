@@ -79,8 +79,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Media Lab`,
-        short_name: `TheMediaLab`,
+        name: `The Media Lab: themedialab.info`,
+        short_name: `The Media Lab`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
