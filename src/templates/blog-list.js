@@ -98,7 +98,7 @@ class BlogIndex extends React.Component {
           title={"Blogg — Side " + currentPage + " of " + numPages}
           description={"Bloggside " + currentPage + " of " + numPages }
         />
-        <h1>Blog</h1>
+        <h1>Blogg</h1>
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
