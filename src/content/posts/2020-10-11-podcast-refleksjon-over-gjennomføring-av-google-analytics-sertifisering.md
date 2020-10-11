@@ -6,9 +6,9 @@ date: 2020-10-11 13:06
 description: En podcast om refleksjon over gjennomføring av Google Analytics sertifisering
 featuredImage: /assets/google-analytics-beginner-course-sertifikat.jpg
 ---
-Ida, Johan og Merete har gjennomført og bestått Google Analytics for beginners. John har gjennomført og bestått GAIQ (Google Analytics Individual Qualification).
+*Ida, Johan og Merete har gjennomført og bestått Google Analytics for beginners. John har gjennomført og bestått GAIQ (Google Analytics Individual Qualification).*
 
-Det er litt forskjellige bakgrunner og forutsetninger for å forstå Google Analytics. John er erfaren med oppsett av websider, og Merete har jobbet litt med websider før, mens det er veldig nytt for både Johan og Ida.
+*Det er litt forskjellige bakgrunner og forutsetninger for å forstå Google Analytics. John er erfaren med oppsett av websider, og Merete har jobbet litt med websider før, mens det er veldig nytt for både Johan og Ida.*
 
 ## Podcast
 
