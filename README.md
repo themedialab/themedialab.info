@@ -1,3 +1,3 @@
 # The Media Lab
 
-Nettsiden hvor fire studenter ved Noroff School Of Technology i Oslo som studerer Digital Markedsføring publiserer ulike oppgaver vi gjennomfører i emnet Web Optimalisering. Samtidig viderefører vi en del kunnskap vi har tilegnet oss i emnet Innholdsmarkedsføring.
+Nettstedet hvor fire Digital markedsførings studenter ved Noroff School of Technology i Oslo publiserer ulike oppgaver de gjennomfører i emnet Weboptimalisering. Samtidig viderefører de også en del kunnskap de har tilegnet seg i emnet Innholdsmarkedsføring.
