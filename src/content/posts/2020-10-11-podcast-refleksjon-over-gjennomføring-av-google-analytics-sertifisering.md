@@ -15,7 +15,7 @@ featuredImage: /assets/google-analytics-beginner-course-sertifikat.jpg
 Ukas podcast handler om Google Analytics! Her går vi gjennom tanker og følelser rundt dette verktøyet som noen enten elsker - eller hater. 
 
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
+  <source src="/assets/the-media-lab-podcast-01-om-google-analytics.ogg" type="audio/ogg">
   <source src="/assets/the-media-lab-podcast-01-om-google-analytics.mp3" type="audio/mpeg">
 Nettleseren din støtter ikke audio elementet.
 </audio>
@@ -24,7 +24,7 @@ Nettleseren din støtter ikke audio elementet.
 
 **\[Ida]** Hei og velkommen til The Media Lab sin podcast, jeg heter Ida og jeg sitter her med Johan, John og Merete. Dagens tema er Google Analytics, hvor vi alle her har utført sertifikater, på ulikt nivå, men ihvertfall sertifikatet “For beginners”. Vi skal snakke litt om følelsene våre rundt dette, hva vi syntes gikk greit og hva som gikk vanskelig. Johan, kan du ikke fortelle litt om hvordan det gikk for deg?
 
-**\[Johan]** Det skal jeg gjøre. Jeg har endelig klart å bestå Google Analytics for Beginners som ble sagt … at jeg kan vise til disse sertifikatene.
+**\[Johan]** Det skal jeg gjøre. Jeg har endelig klart å bestå Google Analytics for beginners som det ble sagt innledningsvis. Jeg er ganske stolt over at jeg har klart det, for jeg har ikke noe teknologisk utdannelsesbakgrunn og var derfor litt nervøs i starten. Google Analytics er jo et av mange verktøy som jeg mener er essensielt å kunne noe om, og forstå, som digital markedsfører. Det er en av grunnene til at jeg valgte dette årsstudiet for å bli bedre på sånne type verktøy. Så selv om jeg var nervøs i starten er jeg glad for at jeg bare hoppet ut i det, og er nå på vei til å lære enda mer og det tror jeg gagner meg på sikt da i arbeidslivet. At jeg kan vise til disse sertifikatene.
 
 **\[Ida]** Ja, fordi jeg er jo ganske på samme båt som deg  … Da kan vi gå videre til John. 
 
