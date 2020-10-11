@@ -2,7 +2,7 @@
 template: blog-post
 title: Lær deg Markdown
 slug: /blogg/lar-deg-markdown
-date: 2020-10-09 06:47
+date: 2020-10-11 06:47
 description: Markdown er et markeringsspråk for ren tekst som deretter kan
   konverteres til mange forskjellige formater som HTML, pdf, eller word-fil,
   m.m.
