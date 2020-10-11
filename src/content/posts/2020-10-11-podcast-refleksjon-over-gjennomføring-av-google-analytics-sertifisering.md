@@ -14,7 +14,7 @@ Det er litt forskjellige bakgrunner og forutsetninger for å forstå Google Anal
 
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
-  <source src="/assets/the-media-lab-podcast-01-om-ga.mp3" type="audio/mpeg">
+  <source src="/assets/the-media-lab-podcast-01-om-google-analytics.mp3" type="audio/mpeg">
 Nettleseren din støtter ikke audio elementet.
 </audio>
 
