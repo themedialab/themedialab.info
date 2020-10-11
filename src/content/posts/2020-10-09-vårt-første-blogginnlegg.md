@@ -2,7 +2,7 @@
 template: blog-post
 title: Vårt første blogginnlegg!
 slug: /blogg/vart-forste-innlegg
-date: 2020-10-08 10:02
+date: 2020-10-09 10:02
 description: Første innlegg til The Media Lab
 featuredImage: /assets/jeremy-bishop-vgjgvtsfys4-unsplash.jpg
 ---
