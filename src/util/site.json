@@ -2,7 +2,7 @@
   "meta": {
     "title": "The Media Lab",
     "titleTemplate": "%s",
-    "description": "Et lynraskt nettsted og blogg, bygget med Gatsby og Netlify CMS.",
+    "description": "The Media Lab er nettstedet hvor fire Digital markedsførings studenter ved Noroff School Of Technology i Oslo publiserer ulike oppgaver de gjennomfører i emnet Weboptimalisering. Samtidig viderefører de også en del kunnskap de har tilegnet seg i emnet Innholdsmarkedsføring.",
     "siteUrl": "https://www.themedialab.info",
     "image": "/assets/stackrole.png",
     "twitterUsername": ""
