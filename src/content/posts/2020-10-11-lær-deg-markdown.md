@@ -6,7 +6,7 @@ date: 2020-10-11 06:47
 description: Markdown er et markeringsspråk for ren tekst som deretter kan
   konverteres til mange forskjellige formater som HTML, pdf, eller word-fil,
   m.m.
-featuredImage: ""
+featuredImage: /assets/hva-er-markdown.webp
 ---
 **Markdown** er et markeringsspråk for ren tekst som deretter kan konverteres til mange forskjellige formater som HTML, pdf, eller word-fil, m.m. Imidlertid støtter de originale verktøyene med samme navn bare [HTML-](https://sv.wikipedia.org/wiki/HTML "HTML") kode. Hensikten med markdown er å være i stand til enkelt å lese og skrive lesbar ren tekst, men med evnen til da å kunne konvertere teksten til strukturert, rik tekst. Syntaksen for formatering av teksten for fet og kursiv stil, overskrifter og [punktlister](https://sv.wikipedia.org/wiki/Punktlista "Punktliste") er forenklet sammenlignet med html-kode. Der du skriver i html `<h1>Rubriktext</h1>`med start- og sluttkoder, blir det samme skrevet `# Rubriktext`med markdown-syntaks.
 
