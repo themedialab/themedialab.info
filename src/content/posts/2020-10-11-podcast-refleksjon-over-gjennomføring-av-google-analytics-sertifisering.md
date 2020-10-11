@@ -12,24 +12,26 @@ Det er litt forskjellige bakgrunner og forutsetninger for å forstå Google Anal
 
 ## Podcast
 
+Ukas podcast handler om Google Analytics! Her går vi gjennom tanker og følelser rundt dette verktøyet som noen enten elsker - eller hater. 
+
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
   <source src="/assets/the-media-lab-podcast-01-om-google-analytics.mp3" type="audio/mpeg">
 Nettleseren din støtter ikke audio elementet.
 </audio>
 
-### Transkripsjon
+#### Transkripsjon
 
 **\[Ida]** Hei og velkommen til The Media Lab sin podcast, jeg heter Ida og jeg sitter her med Johan, John og Merete. Dagens tema er Google Analytics, hvor vi alle her har utført sertifikater, på ulikt nivå, men ihvertfall sertifikatet “For beginners”. Vi skal snakke litt om følelsene våre rundt dette, hva vi syntes gikk greit og hva som gikk vanskelig. Johan, kan du ikke fortelle litt om hvordan det gikk for deg?
 
-**\[Johan]** ...
+**\[Johan]** Det skal jeg gjøre. Jeg har endelig klart å bestå Google Analytics for Beginners som ble sagt … at jeg kan vise til disse sertifikatene.
 
-**\[Ida]** ...
+**\[Ida]** Ja, fordi jeg er jo ganske på samme båt som deg  … Da kan vi gå videre til John. 
 
-**\[John]** ...
+**\[John]** Det er lenge siden jeg ville fullføre Google Analytics sertifiseringen egentlig. Begynte med å se på Google Analytics Academy i fjor men fullførte ikke det. Jeg har erfaring med Google Analytics allerede før Google kjøpte Analytics da.   Det het da Urchin før. Det er mye forbedringer men mange funksjonaliteter er fortsatt samme. Så hvis du lurer på hvorfor Google (Analytics) taggen begynner med UA-, det betyr Urchin Analytics. Flere års erfaring med Google Analytics og min webutviklings bakgrunn da, gjør det lettere for meg kanskje å ta sertifiseringen til og med GAIQ, og så nå har jeg det.
 
-**\[Ida]** ...
+**\[Ida]** Ja, veldig erfaren spiller han er. Vi har også en til, her, Merete. Hun har også erfaring med det her, littegrann. Kan ikke du fortelle litt.
 
-**\[merete]** ...
+**\[Merete]** Jo, jeg har jobbet litt med å sette opp nettsider også kampanjer i Adwords eller Google Ads som det heter nå.  Så jeg gikk gjennom (Google Analytics for) Beginners så jeg synes det gikk veldig greit. Forsto det veldig lett men ...
 
-**\[Ida]** ...
+**\[Ida]** Ja, det er jeg helt enig. Veldig greit å ha disse sertifikatene … Men da har vi egentlig gått gjennom det vi skal snakke om i dag. Jeg vil bare si takk til de som hørte på, så er vi ferdig for i dag.
