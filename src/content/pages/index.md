@@ -4,7 +4,7 @@ slug: /
 title: Velkommen til The Media Lab!
 tagline: Vi er fire studenter ved Noroff School Of Technology i Oslo som
   studerer Digital Markedsføring.
-featuredImage: /assets/teamwork.jpg
+featuredImage: /assets/tml.jpg
 cta:
   ctaText: Les mer om oss
   ctaLink: /om-oss
