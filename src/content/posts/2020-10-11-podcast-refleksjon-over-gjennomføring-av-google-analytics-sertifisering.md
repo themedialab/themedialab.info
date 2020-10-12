@@ -32,6 +32,6 @@ Nettleseren din støtter ikke audio elementet.
 
 **\[Ida]** Ja, veldig erfaren spiller han er. Vi har også en til, her, Merete. Hun har også erfaring med det her, littegrann. Kan ikke du fortelle litt.
 
-**\[Merete]** Jo, jeg har jobbet litt med å sette opp nettsider også kampanjer i Adwords eller Google Ads som det heter nå.  Så jeg gikk gjennom (Google Analytics for) Beginners så jeg synes det gikk veldig greit. Forsto det veldig lett men ...
+**\[Merete]** Jo, jeg har jobbet litt med å sette opp nettsider også kampanjer i Adwords eller Google Ads som det heter nå.  Så jeg gikk gjennom (Google Analytics for) Beginners så jeg synes det gikk veldig greit. Forsto det veldig lett, men jeg er spent på hvordan det blir når jeg går over til det litt mer avanserte. Så jeg håper å fullføre (Google Analytics) Individual Qualification i løpet av det emnet her, for jeg har hatt lyst til å lære med om Google Analytics veldig lenge. Så jeg syns det er bra vi lærer det på dette studiet.
 
 **\[Ida]** Ja, det er jeg helt enig. Veldig greit å ha disse sertifikatene … Men da har vi egentlig gått gjennom det vi skal snakke om i dag. Jeg vil bare si takk til de som hørte på, så er vi ferdig for i dag.
